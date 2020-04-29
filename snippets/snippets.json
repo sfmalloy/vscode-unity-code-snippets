@@ -264,7 +264,7 @@
 		"description": "If OnAudioFilterRead is implemented, Unity will insert a custom filter into the audio DSP chain.",
 		"body": [
 			"private void OnAudioFilterRead(float[] data, int channels)",
-			
+			"{",
 			"\t$0",
 			"}"
 		]
@@ -274,7 +274,7 @@
 		"description": "OnBecameInvisible is called when the renderer is no longer visible by any camera.",
 		"body": [
 			"private void OnBecameInvisible()",
-			
+			"{",
 			"\t$0",
 			"}"
 		]
@@ -284,7 +284,7 @@
 		"description": "OnBecameVisible is called when the renderer became visible by any camera.",
 		"body": [
 			"private void OnBecameVisible()",
-			
+			"{",
 			"\t$0",
 			"}"
 		]
@@ -294,7 +294,7 @@
 		"description": "OnCollisionEnter is called when this collider/rigidbody has begun\n touching another rigidbody/collider.",
 		"body": [
 			"private void OnCollisionEnter(Collision other)",
-			
+			"{",
 			"\t$0",
 			"}"
 		]
