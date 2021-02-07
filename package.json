@@ -16,9 +16,9 @@
 		"gamedev",
 		"snippet"
 	],
-	"publisher": "cemuka",	
+	"publisher": "sfmalloy",	
 	"repository": {
-		"url": "https://github.com/cemuka/vscode-unity-code-snippets"
+		"url": "https://github.com/sfmalloy/vscode-unity-code-snippets"
 	},
 	"icon": "images/icon.png",
 	"galleryBanner": {
