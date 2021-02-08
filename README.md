@@ -1,6 +1,9 @@
 # Unity Code Snippets #
 Create Unity classes and methods easily. 
-Forked from [Kleber Silva.](https://github.com/kleber-swf/vscode-unity-code-snippets)
+Forked from []
+who forked from [Kleber Silva.](https://github.com/kleber-swf/vscode-unity-code-snippets)
+
+Removed `private` from every field that had it to be more consistent with my style.
 
 Changed bracket positions from this:
 
@@ -18,7 +21,6 @@ public class Foo
 
 }
 ```
-
 
 ## All the snippets
 
